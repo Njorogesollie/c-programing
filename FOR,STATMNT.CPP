@@ -1,6 +1,6 @@
 //a program to output hellow world 10 times
  
-#include <iostream>
+#include <iostream>//header
 using namespace std;
 int main(){
 	int i;//START,STOP,STEP,;SYNTAX;
